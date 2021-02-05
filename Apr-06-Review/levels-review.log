@@ -1,0 +1,22 @@
+2020-04-06 17:07:54,397 DEBUG    Input data loaded.
+2020-04-06 17:07:54,397 INFO     Now processing input 0: 1
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 DEBUG    Preparing to multiply.
+2020-04-06 17:07:54,397 INFO     Now processing input 1: 2
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 DEBUG    Preparing to multiply.
+2020-04-06 17:07:54,397 INFO     Now processing input 2: 3
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 ERROR    must be str, not int
+2020-04-06 17:07:54,397 INFO     Now processing input 3: 4
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 DEBUG    Preparing to multiply.
+2020-04-06 17:07:54,397 INFO     Now processing input 4: 6
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 ERROR    must be str, not int
+2020-04-06 17:07:54,397 INFO     Now processing input 5: 7
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 DEBUG    Preparing to multiply.
+2020-04-06 17:07:54,397 INFO     Now processing input 6: 8
+2020-04-06 17:07:54,397 DEBUG    Preparing to add.
+2020-04-06 17:07:54,397 DEBUG    Preparing to multiply.

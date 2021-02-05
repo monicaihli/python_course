@@ -1,0 +1,3 @@
+This is a file.
+It's full of mysterious magic.
+Open it and see what's inside.

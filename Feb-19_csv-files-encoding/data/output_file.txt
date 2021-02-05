@@ -1,0 +1,7 @@
+eggs
+milk
+juice
+bread
+cookies
+coffee
+cheesecake
